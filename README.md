@@ -6,6 +6,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## About Me
 
 🔭 Currently seeking a full-time role in AI/Software Development  
@@ -14,34 +18,36 @@
 💬 Ask me about Deep Learning, Data Structures, and Software Development  
 ✨ Interesting fact: Built ShareCycle, a women’s safety and community- sharing app  
 
----
-
-## 🌐 Connect with me
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hasmitha-krishna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/hasmithaa.17/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="38"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hashkrish17@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="38"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36"/>
   </a>
 </p>
 
-<br/>
+</td>
 
-<!-- FEMININE WOMAN CODING ANIMATION -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/girl-coding.gif"
-    width="420"
-    alt="woman coding with laptop animation"
-  />
-</p>
+<td width="40%" align="center">
+
+<!-- FEMININE GIRL + LAPTOP (SIDE GIF) -->
+<img 
+  src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/girl-coding.gif"
+  width="320"
+  alt="feminine woman working on laptop"
+/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -82,23 +88,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hasmithakrishna&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=hasmithakrishna&theme=default&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasmithakrishna&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=hasmithakrishna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=hasmithakrishna&theme=default&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=hasmithakrishna&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasmithakrishna&layout=compact)
 
 ---
 
