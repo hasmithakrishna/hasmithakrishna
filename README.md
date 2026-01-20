@@ -10,7 +10,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## 💫 About Me
+##  About Me
 
 🔭 Currently seeking a full-time role in AI/Software Development  
 🤝 Open to collaborating on startups and innovative tech projects  
@@ -38,11 +38,11 @@
 
 <td width="40%" align="center">
 
-<!-- FEMININE WOMAN WITH HAIR + LAPTOP (GITHUB-SAFE GIF) -->
+<!-- 👩‍💻 GENERIC GIRL CODING WITH LAPTOP (NO LANGUAGE LOGOS) -->
 <img 
-  src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"
+  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
   width="320"
-  alt="woman working on laptop animation"
+  alt="woman coding on laptop animation"
 />
 
 </td>
