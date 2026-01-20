@@ -6,11 +6,11 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
-##  About Me
+## About Me
 
 🔭 Currently seeking a full-time role in AI/Software Development  
 🤝 Open to collaborating on startups and innovative tech projects  
@@ -22,26 +22,26 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hasmitha-krishna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/hasmithaa.17/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="34"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hashkrish17@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="36"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="34"/>
   </a>
 </p>
 
 </td>
 
-<td width="40%" align="center">
+<td width="40%" align="center" valign="middle">
 
-<!-- 👩‍💻 GENERIC GIRL CODING WITH LAPTOP (NO LANGUAGE LOGOS) -->
-<img 
-  src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-  width="320"
+<img
+  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
+  width="300"
+  style="max-width:100%; height:auto;"
   alt="woman coding on laptop animation"
 />
 
