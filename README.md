@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## 💫 About Me
 
 🔭 Currently seeking a full-time role in AI/Software Development  
 🤝 Open to collaborating on startups and innovative tech projects  
@@ -34,8 +34,13 @@
 
 <br/>
 
+<!-- GIRL CODING ANIMATION (FEMININE STYLE) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420" alt="girl coding animation"/>
+  <img 
+    src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/code-girl.gif"
+    width="420"
+    alt="girl coding animation"
+  />
 </p>
 
 ---
